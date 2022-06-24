@@ -9,7 +9,7 @@ echo "A value saved in the session named as myLogin.<br>";
 $_SESSION ["myColor"] = "Blue"; 
 echo "A value saved in the session named as myColor.<br>";
 
-echo "click <a href=next page.php>Next Page</a>"
+echo "click <a href=next_page.php>Next Page</a>"
 ." to retrieve the values.<br>";
  echo "</html><br>";
 
